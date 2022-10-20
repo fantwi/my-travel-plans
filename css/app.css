@@ -51,10 +51,34 @@ h2 {
     text-shadow: 0 0 5px #01579b;
 }
 
-#florida {
-    background-color: #03a9f4;
+#belize {
+    background-color: #4dd0e1;
+}
+
+#barcelona {
+    background-color: #800000;
 }
 
 #paris {
-    background-color: #d32f2f;
+    background-color: #fff0e1;
+}
+
+#rome {
+    background-color: #300300;
+}
+
+#scotland {
+    background-color: #682297;
+}
+
+#ontario {
+    background-color: #0d0c0c;
+}
+
+#accra {
+    background-color: hsla(0, 100%, 55%, 0.415);
+}
+
+#cape-coast {
+    background-color: #4040b7;
 }
